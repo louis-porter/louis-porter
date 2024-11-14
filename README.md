@@ -1,6 +1,6 @@
 Hi! My name is Louis Porter.
 
-I am data analyst based in London, UK.
+I am data analyst based in London, UK. I work in the sports betting industry.
 
 I am interested in data analytics/science in sport, in particular, in Football (soccer).
 
